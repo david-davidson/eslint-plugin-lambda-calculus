@@ -3,6 +3,8 @@
 
 Looking to enforce Church encoding in production? This plugin will help you catch those pesky numbers and booleans.
 
+![Linting screenshot](./images/screenshot.png)
+
 **Usage:**
 ```
 yarn add eslint-plugin-lambda-calculus --dev
